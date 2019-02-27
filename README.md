@@ -18,7 +18,7 @@ how object-oriented programming languages commonly interact with a database,
 imagine you had _many_ more classes. To test and maintain custom code for each
 project we work on would distract our attention from making cool stuff to
 building database connectivity. To save themselves and other developers this
-headache, the [ActiveRecord][ar] Ruby gem team built the [ActiveRecord][ar]
+headache, the ActiveRecord Ruby gem team built the [ActiveRecord][ar]
 gem.
 
 In this lesson we'll read about how to to have `ActiveRecord` link our Ruby
